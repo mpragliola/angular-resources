@@ -18,6 +18,10 @@
 
 * https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html
 
+## Providers
+
+* https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html
+
 ## Dependency Injection
 
 * https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
@@ -37,7 +41,7 @@
 #### Operators
 
 * **map**
-  * https://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html
+  * https://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html 
 
 * **flatMap**
   * https://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html
