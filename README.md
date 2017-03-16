@@ -4,15 +4,25 @@
 
 ## Forms
 
-### Model driven forms
+### Template driven forms
 
-### Reactive forms
+* https://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html
+
+### Model driven/Reactive forms
 
 * https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html
 
 ## Routing
 
 * https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
+
+## Change detection
+
+* https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+
+## Guards
+
+* 
 
 ## Forward references
 
@@ -21,7 +31,8 @@
 ## Providers
 
 * https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html
-
+* https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
+ 
 ## Dependency Injection
 
 * https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
@@ -36,6 +47,7 @@
 
 ### Observables
 
+- https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html
 - https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html
 
 #### Operators
@@ -47,3 +59,23 @@
   * https://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html
 
 ## Animation System
+
+## Zones / zone.js
+
+* https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html
+* https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.htmls
+* https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
+
+## Testing
+
+## Mix / to be catalogued
+
+* https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
+* https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html
+* https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html
+* https://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html
+* https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
+* https://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html
+* https://blog.thoughtram.io/angular/2016/09/14/bypassing-providers-in-angular-2.html
+* https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
+* https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
