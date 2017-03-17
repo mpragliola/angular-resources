@@ -68,7 +68,7 @@
 
 ## Testing
 
-## Mix / to be catalogued
+## Mix / to be catalogued@
 
 * https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
 * https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html
@@ -79,3 +79,20 @@
 * https://blog.thoughtram.io/angular/2016/09/14/bypassing-providers-in-angular-2.html
 * https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
 * https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
+
+## i18n/l10n
+
+### Internationalization and localization tools and tutorials
+
+### Datepipe localization
+
+* http://stackoverflow.com/questions/34904683/how-to-set-locale-in-datepipe-in-angular2
+
+## Concepts, Tips & recipes
+
+### When do I unsubscribe()
+
+* http://stackoverflow.com/questions/38008334/angular2-rxjs-when-should-i-unsubscribe-from-subscription
+* http://stackoverflow.com/questions/35042929/do-you-need-to-unsubscribe-from-angular-2-http-calls-to-prevent-memory-leak
+* https://www.seangwright.me/blog/development/unsubscribe-angular-2-http-observables/
+
