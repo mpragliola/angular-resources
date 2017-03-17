@@ -105,3 +105,14 @@
 * http://stackoverflow.com/questions/35042929/do-you-need-to-unsubscribe-from-angular-2-http-calls-to-prevent-memory-leak
 * https://www.seangwright.me/blog/development/unsubscribe-angular-2-http-observables/
 
+### Creating an application pre-bootstrapper loader
+
+* https://www.bennadel.com/blog/3105-creating-a-pre-bootstrap-loading-screen-in-angular-2-rc-1.htm
+* https://www.bennadel.com/blog/3147-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm
+* https://www.bennadel.com/blog/3151-revisited-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm
+
+## Other
+
+### Webpack
+
+- https://angular.io/docs/ts/latest/guide/webpack.html
