@@ -54,6 +54,10 @@
 
 ## RxJs
 
+- https://github.com/Reactive-Extensions/RxJS/tree/master/doc
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+
 ### Observables
 
 - https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html
