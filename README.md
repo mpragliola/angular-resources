@@ -12,6 +12,15 @@
 
 * https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html
 
+### Making custom form components
+
+* https://angular.io/docs/ts/latest/api/forms/index/ControlValueAccessor-interface.html
+* https://medium.com/@tarik.nzl/angular-2-custom-form-control-with-validation-json-input-2b4cf9bc2d73#.r2c5axh3h
+
+### Custom validation
+
+* https://medium.com/@tarik.nzl/angular-2-custom-form-control-with-validation-json-input-2b4cf9bc2d73#.r2c5axh3h
+
 ## Routing
 
 * https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
