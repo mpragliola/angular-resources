@@ -41,6 +41,10 @@
 
 * 
 
+## Template references
+
+* https://stacksandfoundations.com/2016/07/13/using-templateref-to-create-a-tooltippopover-directive/
+
 ## Forward references
 
 * https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html
@@ -94,6 +98,7 @@
 * https://blog.thoughtram.io/angular/2016/09/14/bypassing-providers-in-angular-2.html
 * https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
 * https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
+* https://stacksandfoundations.com/2016/06/22/svgs-funciri-angular2-and-the-base-tag/
 
 ## i18n/l10n
 
@@ -105,11 +110,12 @@
 
 ## Concepts, Tips & recipes
 
-### When do I unsubscribe()
+### How/When do I unsubscribe()
 
 * http://stackoverflow.com/questions/38008334/angular2-rxjs-when-should-i-unsubscribe-from-subscription
 * http://stackoverflow.com/questions/35042929/do-you-need-to-unsubscribe-from-angular-2-http-calls-to-prevent-memory-leak
 * https://www.seangwright.me/blog/development/unsubscribe-angular-2-http-observables/
+* https://stacksandfoundations.com/2016/06/24/using-class-inheritance-to-hook-to-angular2-component-lifecycle/ (hack to avoid code redundancy)
 
 ### Creating an application pre-bootstrapper loader
 
