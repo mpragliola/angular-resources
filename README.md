@@ -28,6 +28,14 @@
 ## Change detection
 
 * https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+* https://stacksandfoundations.com/2016/10/04/understanding-ngzone/
+
+## Zones / zone.js
+
+* https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html
+* https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.htmls
+* https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
+* https://stacksandfoundations.com/2016/10/04/understanding-ngzone/
 
 ## Guards
 
@@ -72,12 +80,6 @@
   * https://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html
 
 ## Animation System
-
-## Zones / zone.js
-
-* https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html
-* https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.htmls
-* https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html
 
 ## Testing
 
