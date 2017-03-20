@@ -2,11 +2,15 @@
 
 ## Components
 
+- http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
+
 ### Making reusable custom components
 
 - http://blog.angular-university.io/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
 
 ## Events
+
+- http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
 
 ## Forms
 
@@ -75,6 +79,7 @@
 
 - https://github.com/Reactive-Extensions/RxJS/tree/master/doc
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [A trick to debug Rxjs](http://blog.angular-university.io/debug-rxjs/)
 
 
 ### Observables
@@ -106,6 +111,7 @@
 - https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
 - https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
 - https://stacksandfoundations.com/2016/06/22/svgs-funciri-angular2-and-the-base-tag/
+- http://blog.angular-university.io/angular-2-ngfor/
 
 ## i18n/l10n
 
@@ -126,12 +132,17 @@
 
 ### Creating an application pre-bootstrapper loader
 
-- https://www.bennadel.com/blog/3105-creating-a-pre-bootstrap-loading-screen-in-angular-2-rc-1.htm
-- https://www.bennadel.com/blog/3147-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm
-- https://www.bennadel.com/blog/3151-revisited-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm
+- Ben Nadel, Series on creating a pre-bootstrap loading screen 
+  [1](https://www.bennadel.com/blog/3105-creating-a-pre-bootstrap-loading-screen-in-angular-2-rc-1.htm)
+  [2](https://www.bennadel.com/blog/3147-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm)
+  [3](https://www.bennadel.com/blog/3151-revisited-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm)
 
 ## Other
 
-### Webpack
+### Angular2 + Webpack
 
 - https://angular.io/docs/ts/latest/guide/webpack.html
+
+## People 
+
+- [Ben Nadel](https://www.bennadel.com/)
