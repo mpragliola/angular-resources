@@ -11,6 +11,7 @@
 ## Events
 
 - http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
+- [How do I register an event listener on document?](https://juristr.com/blog/2016/09/ng2-event-registration-document/) - [Juri Strumpflohner](https://juristr.com/)
 
 ## Forms
 
