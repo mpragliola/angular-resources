@@ -116,6 +116,8 @@
 
 ## i18n/l10n
 
+- [Angular.io Official documentation](https://angular.io/docs/ts/latest/cookbook/i18n.html)
+
 ### Internationalization and localization tools and tutorials
 
 ### Datepipe localization
@@ -143,6 +145,10 @@
 ### Angular2 + Webpack
 
 - https://angular.io/docs/ts/latest/guide/webpack.html
+
+### Angular2 + Gestures
+
+- https://scotch.io/tutorials/using-hammerjs-touch-gesture-in-angular-2
 
 ## People 
 
