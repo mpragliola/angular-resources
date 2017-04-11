@@ -120,7 +120,7 @@
 
 ### Internationalization and localization tools and tutorials
 
-### Datepipe localization
+### DatePipe localization
 
 - http://stackoverflow.com/questions/34904683/how-to-set-locale-in-datepipe-in-angular2
 
@@ -149,6 +149,10 @@
 ### Angular2 + Gestures
 
 - https://scotch.io/tutorials/using-hammerjs-touch-gesture-in-angular-2
+
+### Angular2 + CI (Continuous Integration)
+
+- [Angular 2 with Travis CI - Divan Visagie](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937)
 
 ## People 
 
