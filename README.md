@@ -157,3 +157,7 @@
 ## People 
 
 - [Ben Nadel](https://www.bennadel.com/)
+
+## Sites
+
+- [Angular2 Official Site](http://angular.io)
