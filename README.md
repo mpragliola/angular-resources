@@ -79,8 +79,8 @@
 ## RxJs
 
 - https://github.com/Reactive-Extensions/RxJS/tree/master/doc
-- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-- [A trick to debug Rxjs](http://blog.angular-university.io/debug-rxjs/)
+- [The introduction to Reactive Programming you've been missing (André Staltz)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [A trick to debug Rxjs (Angular University)](http://blog.angular-university.io/debug-rxjs/)
 
 
 ### Observables
@@ -157,6 +157,7 @@
 ## People 
 
 - [Ben Nadel](https://www.bennadel.com/)
+- [André Staltz](https://staltz.com/)
 
 ## Sites
 
