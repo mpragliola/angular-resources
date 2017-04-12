@@ -162,3 +162,9 @@
 ## Sites
 
 - [Angular2 Official Site](http://angular.io)
+
+## Communities
+
+### In Italian
+
+- [Angular Developers Italiani](https://www.facebook.com/groups/angularjs.developer.italiani/)
