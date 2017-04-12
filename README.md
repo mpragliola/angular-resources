@@ -7,7 +7,7 @@
 ### Component lifecycle
 
 - [Lifecycle Hooks - Angular.io](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
-- [Differences between constructor() and OnInit() Hook - Todd Motto](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
+- [Differences between constructor() and OnInit() Hook (Todd Motto)](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
 
 ### Making reusable custom components / librariesw
 
@@ -17,7 +17,7 @@
 ## Events
 
 - http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
-- [How do I register an event listener on document?](https://juristr.com/blog/2016/09/ng2-event-registration-document/) - [Juri Strumpflohner](https://juristr.com/)
+- [How do I register an event listener on document?](https://juristr.com/blog/2016/09/ng2-event-registration-document/) [(Juri Strumpflohner)](https://juristr.com/)
 
 ## Forms
 
@@ -144,7 +144,7 @@
 
 ### Creating an application pre-bootstrapper loader
 
-- Ben Nadel, Series on creating a pre-bootstrap loading screen 
+- Series on creating a pre-bootstrap loading screen (Ben Nadel)
   [1](https://www.bennadel.com/blog/3105-creating-a-pre-bootstrap-loading-screen-in-angular-2-rc-1.htm)
   [2](https://www.bennadel.com/blog/3147-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm)
   [3](https://www.bennadel.com/blog/3151-revisited-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm)
@@ -161,7 +161,7 @@
 
 ### Angular2 + CI (Continuous Integration)
 
-- [Angular 2 with Travis CI - Divan Visagie](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937)
+- [Angular 2 with Travis CI (Divan Visagie)](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937)
 
 ## People 
 
