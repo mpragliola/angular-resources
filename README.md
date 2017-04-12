@@ -39,8 +39,8 @@
 ## Change detection
 
 - https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
-- https://stacksandfoundations.com/2016/10/04/understanding-ngzone/
-- http://stackoverflow.com/questions/34827334/triggering-angular2-change-detection-manually
+- [Understanding NgZone](https://stacksandfoundations.com/2016/10/04/understanding-ngzone/)
+- [Triggering Angular2 change detection manually - S.O.](http://stackoverflow.com/questions/34827334/triggering-angular2-change-detection-manually)
 
 ## Zones / zone.js
 
@@ -82,6 +82,7 @@
 - [The introduction to Reactive Programming you've been missing (André Staltz)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [A trick to debug Rxjs (Angular University)](http://blog.angular-university.io/debug-rxjs/)
 
+## NgRx
 
 ### Observables
 
@@ -132,6 +133,7 @@
 - http://stackoverflow.com/questions/35042929/do-you-need-to-unsubscribe-from-angular-2-http-calls-to-prevent-memory-leak
 - https://www.seangwright.me/blog/development/unsubscribe-angular-2-http-observables/
 - https://stacksandfoundations.com/2016/06/24/using-class-inheritance-to-hook-to-angular2-component-lifecycle/ (hack to avoid code redundancy)
+
 
 ### Creating an application pre-bootstrapper loader
 
