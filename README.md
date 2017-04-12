@@ -4,6 +4,11 @@
 
 - http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
 
+### Component lifecycle
+
+- [Lifecycle Hooks - Angular.io](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
+- [Differences between constructor() and OnInit() Hook - Todd Motto](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
+
 ### Making reusable custom components
 
 - http://blog.angular-university.io/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
@@ -31,6 +36,7 @@
 ### Custom validation
 
 - https://medium.com/@tarik.nzl/angular-2-custom-form-control-with-validation-json-input-2b4cf9bc2d73#.r2c5axh3h
+- [Introducing ngxErrors, declarative form errors for Angular - Todd Motto](https://toddmotto.com/angular-ng-errors-form-validation)
 
 ## Routing
 
@@ -160,6 +166,7 @@
 
 - [Ben Nadel](https://www.bennadel.com/)
 - [André Staltz](https://staltz.com/)
+- [Todd Motto](https://toddmotto.com/)
 
 ## Sites
 
