@@ -9,9 +9,10 @@
 - [Lifecycle Hooks - Angular.io](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
 - [Differences between constructor() and OnInit() Hook - Todd Motto](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
 
-### Making reusable custom components
+### Making reusable custom components / librariesw
 
-- http://blog.angular-university.io/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
+- [How to create an Angular component library, and how to consume it using SystemJs or Webpack (AngularUniversity.io)](http://blog.angular-university.io/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/)
+- [Distributing an Angular Library - The Brief Guide (Minko Gechev)](http://blog.mgechev.com/2017/01/21/distributing-an-angular-library-aot-ngc-types/)
 
 ## Events
 
