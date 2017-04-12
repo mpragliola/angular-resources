@@ -28,9 +28,10 @@
 
 - https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html
 
-### Making custom form components
+### Making custom form controls
 
-- https://angular.io/docs/ts/latest/api/forms/index/ControlValueAccessor-interface.html
+- [ControlValueAccessor Interface - Angular.io](https://angular.io/docs/ts/latest/api/forms/index/ControlValueAccessor-interface.html)
+- https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
 - https://medium.com/@tarik.nzl/angular-2-custom-form-control-with-validation-json-input-2b4cf9bc2d73#.r2c5axh3h
 
 ### Custom validation
@@ -116,7 +117,6 @@
 - https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
 - https://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html
 - https://blog.thoughtram.io/angular/2016/09/14/bypassing-providers-in-angular-2.html
-- https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
 - https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
 - https://stacksandfoundations.com/2016/06/22/svgs-funciri-angular2-and-the-base-tag/
 - http://blog.angular-university.io/angular-2-ngfor/
